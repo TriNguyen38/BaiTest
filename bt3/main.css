@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 40px 100px;
+}
+h4 , h5{
+    margin: 0%;
+}
+a{
+    font-family: poppins ;
+    text-decoration: none;
+    color: black;   
+}
+.right{
+    word-spacing: 15px;
+}
+
+.main{
+    margin: 0px 100px 0px 100px;
+}
+                                /* info-box-top */
+.info-box-top{
+    padding: 40px 100px;
+    display: flex;
+}
+
+.first-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info1{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby1 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+.second-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info2{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby2 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+.third-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info3{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby3 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+                                /* info-box-bottom */
+.info-box-bot{
+    padding: 40px 100px;
+    display: flex;
+}
+
+.first-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info1{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby1 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+.second-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info2{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby2 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+.third-box{
+    display: flex;
+    margin: 0px 12px 0px 0px;
+}
+
+.info3{
+    padding: 0px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hobby3 a{
+    color: #516FD4;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+}                                
